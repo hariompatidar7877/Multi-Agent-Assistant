@@ -232,8 +232,8 @@ All agents read from and write to a single shared state object, `BlogState`, def
 **Hariom Patidar**
 B.Tech, Computer Science & Engineering
 
-- GitHub: [github.com/your-username](https://github.com/hariompatidar7877)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/hariom-patidar-tech/)
+- GitHub: [Github/Profile](https://github.com/hariompatidar7877)
+- LinkedIn: [Linkedin_Profile](https://www.linkedin.com/in/hariom-patidar-tech/)
 
 ---
 
