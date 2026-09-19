@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agent Blog Generator
 
 A human-in-the-loop, multi-agent system that researches, writes, and edits complete blog posts. Built with **LangGraph**, **LangChain**, and **Groq**.
@@ -237,3 +238,6 @@ B.Tech, Computer Science & Engineering
 ---
 
 *This project demonstrates how multiple AI agents can work together with human feedback to produce a reliable blog-generation workflow.*
+=======
+hello
+>>>>>>> 64a3e37c90dd411d309b22339b50c82bad4fb989
