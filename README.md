@@ -232,12 +232,9 @@ All agents read from and write to a single shared state object, `BlogState`, def
 **Hariom Patidar**
 B.Tech, Computer Science & Engineering
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [github.com/your-username](https://github.com/hariompatidar7877)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/hariom-patidar-tech/)
 
 ---
 
-*This project demonstrates how multiple AI agents can work together with human feedback to produce a reliable blog-generation workflow.*
-=======
-hello
->>>>>>> 64a3e37c90dd411d309b22339b50c82bad4fb989
+
